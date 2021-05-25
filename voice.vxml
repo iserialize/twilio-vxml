@@ -1,4 +1,4 @@
 <Response>
-<Say voice="alice">This call is from a load generator?!</Say>
+<Say voice="alice">This call is from a load generator</Say>
 <Play loop="99">http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
